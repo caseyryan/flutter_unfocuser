@@ -1,3 +1,6 @@
+<a href="https://pub.dev/packages/flutter_unfocuser"><img src="https://img.shields.io/pub/v/flutter_unfocuser?logo=dart" alt="pub.dev"></a>[![style: effective dart](https://img.shields.io/badge/style-effective_dart-40c4ff.svg)](https://pub.dev/packages/effective_dart) <a href="https://github.com/Solido/awesome-flutter">
+<img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
+
 ## Features
 This widget is used to unfocus any text field in Flutter. You don't need
 to use any FocusNodes, FocusScope and other things to do it. 

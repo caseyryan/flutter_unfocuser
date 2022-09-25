@@ -1,7 +1,7 @@
 name: flutter_unfocuser
 description: A simple widget to unfocus any text field in Flutter
 version: 1.0.0
-homepage:
+homepage: https://github.com/caseyryan/flutter_unfocuser
 
 environment:
   sdk: ">=2.12.3 <3.0.0"
